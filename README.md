@@ -1,3 +1,5 @@
+레퍼런스: https://github.com/CodeSoom/dsa-week1-assignment-1
+
 # 자료구조와 알고리즘 1주차 과제
 1. 총합 구하기
 2. 피보나치 수
