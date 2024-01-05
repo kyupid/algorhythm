@@ -6,15 +6,10 @@ public class Fibonacci {
         if (i <= 0) {
             return 0;
         }
-        int first = 0;
-        int second = 1;
-        int result;
-
-        for (int j = 0; j < i; j++) {
-            result = first + second;
-            first = second;
-            second = result;
+        if (i == 1) {
+            return 1;
         }
-        return first;
+        // todo if i > 1
+        return calculate(i - 1) + calculate(i - 2);
     }
 }
