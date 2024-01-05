@@ -1,4 +1,4 @@
-package org.example.week1.problem2;
+package week1.problem2;
 
 import static org.junit.jupiter.api.Assertions.*;
 

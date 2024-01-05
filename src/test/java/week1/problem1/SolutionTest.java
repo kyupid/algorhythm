@@ -1,6 +1,7 @@
-package org.example.week1.problem1;
+package week1.problem1;
 
 import org.junit.jupiter.api.Test;
+import week1.problem1.Solution;
 
 import static org.junit.jupiter.api.Assertions.*;
 
